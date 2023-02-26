@@ -21,27 +21,27 @@ I have used HexColor package, you have to install it first from https://pub.dev/
   10.textButtonFontSize  
   11.buttonFontSize  
   12.buttonWidth   
-  10.buttonHeight  
-  11.buttonBorderRadius  
-  12.usernameKeyboardType   
-  10.passwordKeyboardType  
-  11.title  
-  12.usernameLabel   
-  10.passwordLabel  
-  11.usernameValidateMessage  
-  12.passwordValidateMessage   
-  10.buttonText  
-  11.dontHaveAccountText  
-  12.textButtonTitle   
-  10.textButtonColor  
-  11.buttonHexColor  
-  12.suffixOff   
-  10.suffixOn  
-  11.buttonTextColor  
-  12.dontHaveAccountTextColor    
-  10.textButtonFontWeight  
-  11.titleFontWeight  
-  12.dontHaveAccountTextFontWeight   
+  13.buttonHeight  
+  14.buttonBorderRadius  
+  15.usernameKeyboardType   
+  16.passwordKeyboardType  
+  17.title  
+  18.usernameLabel   
+  19.passwordLabel  
+  20.usernameValidateMessage  
+  21.passwordValidateMessage   
+  22.buttonText  
+  23.dontHaveAccountText  
+  24.textButtonTitle   
+  25.textButtonColor  
+  26.buttonHexColor  
+  27.suffixOff   
+  28.suffixOn  
+  29.buttonTextColor  
+  30.dontHaveAccountTextColor    
+  31.textButtonFontWeight  
+  32.titleFontWeight  
+  33.dontHaveAccountTextFontWeight   
 
 # Preview
 ![WhatsApp Image 2023-02-23 at 4 08 04 PM](https://user-images.githubusercontent.com/125300187/221431203-9244c6b6-e2d1-4616-8d78-c7f9c365f34d.jpeg)
