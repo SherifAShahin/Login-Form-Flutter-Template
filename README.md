@@ -9,12 +9,12 @@ I have used HexColor package, you have to install it first from https://pub.dev/
   2.Call the function in the desired location
   
 # Features
-  1.formKey  
-  2.usernameController  
-  3.passwordController  
-  4.onPressed  
-  5.suffixPressed  
-  6.textButtonOnPressed  
+  1.formKey (required)  
+  2.usernameController (required)  
+  3.passwordController (required)  
+  4.onPressed (required)  
+  5.suffixPressed (required)  
+  6.textButtonOnPressed (required)  
   7.padding  
   8.titleFontSize  
   9.dontHaveAccountTextFontSize  
